@@ -1,3 +1,3 @@
 # MY_PROJECT
 This is my first git repository.
-AUTHOR:- Shivani Sharma
+<br>AUTHOR:- Shivani Sharma</br>
